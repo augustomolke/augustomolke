@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Work-in-progress...
+
+
+Some projects: 
+
+https://augustomolke.github.io/deliveryapp_app/#/
+
+https://augustomolke.github.io/sudoku/
+
+https://augustomolke.github.io/micro-blog/#/
 <!--
 **augustomolke/augustomolke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
